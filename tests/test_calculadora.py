@@ -55,4 +55,3 @@ class TestDividir:
         with pytest.raises(ValueError, match="No se puede dividir entre cero"):
             dividir(5, 0)
 
-     
