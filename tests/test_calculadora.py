@@ -57,6 +57,7 @@ class TestDividir:
 
 
 # ── Tests de división ──────────────────────────────────────────
+class Testpotencia:
     def test_potencia_positiva(self):
         assert potencia(2, 3) == 8
 
